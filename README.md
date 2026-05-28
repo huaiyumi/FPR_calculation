@@ -69,6 +69,9 @@ Prepare the following four files:
 | `new_annotations` | Experimental annotations created **after** the prediction date. Should contain only the genomes present in the predictions |
 | `do_not_annotate` list | Terms labelled `gocheck_do_not_annotate` in `go-basic.obo`. These are excluded from the calculation |
 
+
+*Test files are provided in the Files/ folder.
+
 ---
 
 ## Step 3: Generate Metrics
