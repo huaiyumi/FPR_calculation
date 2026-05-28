@@ -1,0 +1,460 @@
+GO:0000075	cell cycle checkpoint signaling
+GO:0000080	mitotic G1 phase
+GO:0000084	mitotic S phase
+GO:0000085	mitotic G2 phase
+GO:0000087	mitotic M phase
+GO:0000088	mitotic prophase
+GO:0000089	mitotic metaphase
+GO:0000090	mitotic anaphase
+GO:0000091	mitotic anaphase A
+GO:0000092	mitotic anaphase B
+GO:0000093	mitotic telophase
+GO:0000236	mitotic prometaphase
+GO:0000237	leptotene
+GO:0000238	zygotene
+GO:0000239	pachytene
+GO:0000240	diplotene
+GO:0000241	diakinesis
+GO:0000279	M phase
+GO:0000910	cytokinesis
+GO:0001101	response to acid chemical
+GO:0001539	cilium or flagellum-dependent cell motility
+GO:0001816	cytokine production
+GO:0002367	cytokine production involved in immune response
+GO:0002368	B cell cytokine production
+GO:0002369	T cell cytokine production
+GO:0002370	natural killer cell cytokine production
+GO:0002371	dendritic cell cytokine production
+GO:0002372	myeloid dendritic cell cytokine production
+GO:0002373	plasmacytoid dendritic cell cytokine production
+GO:0002377	immunoglobulin production
+GO:0002381	immunoglobulin production involved in immunoglobulin-mediated immune response
+GO:0002426	immunoglobulin production in mucosal tissue
+GO:0002440	production of molecular mediator of immune response
+GO:0002534	cytokine production involved in inflammatory response
+GO:0002775	antimicrobial peptide production
+GO:0002778	antibacterial peptide production
+GO:0002781	antifungal peptide production
+GO:0002831	regulation of response to biotic stimulus
+GO:0002832	negative regulation of response to biotic stimulus
+GO:0002833	positive regulation of response to biotic stimulus
+GO:0004448	isocitrate dehydrogenase [NAD(P)+] activity
+GO:0005215	transporter activity
+GO:0005368	taurine transmembrane transporter activity
+GO:0005618	cell wall
+GO:0005622	intracellular anatomical structure
+GO:0006066	alcohol metabolic process
+GO:0006090	pyruvate metabolic process
+GO:0006113	fermentation
+GO:0006139	nucleobase-containing compound metabolic process
+GO:0006810	transport
+GO:0006996	organelle organization
+GO:0007049	cell cycle
+GO:0007093	mitotic cell cycle checkpoint signaling
+GO:0007128	meiotic prophase I
+GO:0007132	meiotic metaphase I
+GO:0007133	meiotic anaphase I
+GO:0007134	meiotic telophase I
+GO:0007136	meiotic prophase II
+GO:0007137	meiotic metaphase II
+GO:0007138	meiotic anaphase II
+GO:0007139	meiotic telophase II
+GO:0007275	multicellular organism development
+GO:0007549	sex-chromosome dosage compensation
+GO:0007588	excretion
+GO:0007610	behavior
+GO:0008134	transcription factor binding
+GO:0008152	metabolic process
+GO:0008219	cell death
+GO:0008452	RNA ligase activity
+GO:0008937	ferredoxin-[NAD(P)H] reductase activity
+GO:0009056	catabolic process
+GO:0009057	macromolecule catabolic process
+GO:0009058	biosynthetic process
+GO:0009059	macromolecule biosynthetic process
+GO:0009605	response to external stimulus
+GO:0009607	response to biotic stimulus
+GO:0009628	response to abiotic stimulus
+GO:0009719	response to endogenous stimulus
+GO:0009790	embryo development
+GO:0009889	regulation of biosynthetic process
+GO:0009890	negative regulation of biosynthetic process
+GO:0009891	positive regulation of biosynthetic process
+GO:0009892	negative regulation of metabolic process
+GO:0009893	positive regulation of metabolic process
+GO:0009894	regulation of catabolic process
+GO:0009987	cellular process
+GO:0010556	regulation of macromolecule biosynthetic process
+GO:0010557	positive regulation of macromolecule biosynthetic process
+GO:0010558	negative regulation of macromolecule biosynthetic process
+GO:0010604	positive regulation of macromolecule metabolic process
+GO:0010605	negative regulation of macromolecule metabolic process
+GO:0010638	positive regulation of organelle organization
+GO:0010639	negative regulation of organelle organization
+GO:0010835	regulation of protein ADP-ribosylation
+GO:0010836	negative regulation of protein ADP-ribosylation
+GO:0010934	macrophage cytokine production
+GO:0014076	response to fluoxetine
+GO:0016043	cellular component organization
+GO:0016049	cell growth
+GO:0016631	enoyl-[acyl-carrier-protein] reductase [NAD(P)H] activity
+GO:0017186	peptidyl-pyroglutamic acid biosynthetic process, using glutaminyl-peptide cyclotransferase
+GO:0018061	peptidyl-L-3-phenyllactic acid biosynthetic process from peptidyl-phenylalanine
+GO:0018083	peptidyl-L-3-oxoalanine biosynthetic process from peptidyl-cysteine or peptidyl-serine
+GO:0018193	peptidyl-amino acid modification
+GO:0018231	peptidyl-S-diacylglycerol-L-cysteine biosynthetic process from peptidyl-cysteine
+GO:0018339	peptidyl-L-beta-methylthioaspartic acid biosynthetic process from peptidyl-aspartic acid
+GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0019222	regulation of metabolic process
+GO:0019538	protein metabolic process
+GO:0019752	carboxylic acid metabolic process
+GO:0019953	sexual reproduction
+GO:0022402	cell cycle process
+GO:0022403	cell cycle phase
+GO:0022411	cellular component disassembly
+GO:0022413	reproductive process in single-celled organism
+GO:0022414	reproductive process
+GO:0022601	menstrual cycle phase
+GO:0022607	cellular component assembly
+GO:0030030	cell projection organization
+GO:0030031	cell projection assembly
+GO:0030242	autophagy of peroxisome
+GO:0031074	nucleocytoplasmic transport complex
+GO:0031090	organelle membrane
+GO:0031577	spindle checkpoint signaling
+GO:0032091	negative regulation of protein binding
+GO:0032092	positive regulation of protein binding
+GO:0032101	regulation of response to external stimulus
+GO:0032102	negative regulation of response to external stimulus
+GO:0032103	positive regulation of response to external stimulus
+GO:0032386	regulation of intracellular transport
+GO:0032501	multicellular organismal process
+GO:0032601	connective tissue growth factor production
+GO:0032602	chemokine production
+GO:0032603	fractalkine production
+GO:0032604	granulocyte macrophage colony-stimulating factor production
+GO:0032605	hepatocyte growth factor production
+GO:0032606	type I interferon production
+GO:0032607	interferon-alpha production
+GO:0032608	interferon-beta production
+GO:0032609	type II interferon production
+GO:0032610	interleukin-1 alpha production
+GO:0032611	interleukin-1 beta production
+GO:0032612	interleukin-1 production
+GO:0032613	interleukin-10 production
+GO:0032614	interleukin-11 production
+GO:0032615	interleukin-12 production
+GO:0032616	interleukin-13 production
+GO:0032618	interleukin-15 production
+GO:0032619	interleukin-16 production
+GO:0032620	interleukin-17 production
+GO:0032621	interleukin-18 production
+GO:0032622	interleukin-19 production
+GO:0032623	interleukin-2 production
+GO:0032624	interleukin-20 production
+GO:0032625	interleukin-21 production
+GO:0032626	interleukin-22 production
+GO:0032627	interleukin-23 production
+GO:0032628	interleukin-24 production
+GO:0032629	interleukin-25 production
+GO:0032630	interleukin-26 production
+GO:0032631	interleukin-27 production
+GO:0032632	interleukin-3 production
+GO:0032633	interleukin-4 production
+GO:0032634	interleukin-5 production
+GO:0032635	interleukin-6 production
+GO:0032636	interleukin-7 production
+GO:0032637	interleukin-8 production
+GO:0032638	interleukin-9 production
+GO:0032639	TRAIL production
+GO:0032640	tumor necrosis factor production
+GO:0032641	lymphotoxin A production
+GO:0032762	mast cell cytokine production
+GO:0032774	RNA biosynthetic process
+GO:0032879	regulation of localization
+GO:0033036	macromolecule localization
+GO:0033043	regulation of organelle organization
+GO:0033365	protein localization to organelle
+GO:0033643	host cell part
+GO:0033646	host intracellular part
+GO:0033653	host cell chloroplast part
+GO:0033655	host cell cytoplasm part
+GO:0034212	protein N-acetyltransferase activity
+GO:0034654	nucleobase-containing compound biosynthetic process
+GO:0034655	nucleobase-containing compound catabolic process
+GO:0035393	chemokine (C-X-C motif) ligand 9 production
+GO:0035530	chemokine (C-C motif) ligand 6 production
+GO:0035562	negative regulation of chromatin binding
+GO:0035563	positive regulation of chromatin binding
+GO:0035743	CD4-positive, alpha-beta T cell cytokine production
+GO:0035744	T-helper 1 cell cytokine production
+GO:0035745	T-helper 2 cell cytokine production
+GO:0035746	granzyme A production
+GO:0035944	perforin production
+GO:0036211	protein modification process
+GO:0036262	granulysin production
+GO:0036270	response to diuretic
+GO:0036271	response to methylphenidate
+GO:0036272	response to gemcitabine
+GO:0036273	response to statin
+GO:0036274	response to lapatinib
+GO:0036275	response to 5-fluorouracil
+GO:0036276	response to antidepressant
+GO:0036277	response to anticonvulsant
+GO:0036287	response to iloperidone
+GO:0036288	response to ximelagatran
+GO:0036301	macrophage colony-stimulating factor production
+GO:0036392	chemokine (C-C motif) ligand 20 production
+GO:0038183	bile acid signaling pathway
+GO:0040007	growth
+GO:0042221	response to chemical
+GO:0042637	catagen
+GO:0042638	exogen
+GO:0042639	telogen
+GO:0042640	anagen
+GO:0042696	menarche
+GO:0042697	menopause
+GO:0042703	menstruation
+GO:0042710	biofilm formation
+GO:0042995	cell projection
+GO:0043087	regulation of GTPase activity
+GO:0043167	ion binding
+GO:0043170	macromolecule metabolic process
+GO:0043227	membrane-bounded organelle
+GO:0043228	membraneless organelle
+GO:0043229	intracellular organelle
+GO:0043231	intracellular membrane-bounded organelle
+GO:0043232	intracellular membraneless organelle
+GO:0043388	positive regulation of DNA binding
+GO:0043392	negative regulation of DNA binding
+GO:0043393	regulation of protein binding
+GO:0043711	pilus organization
+GO:0043954	cellular component maintenance
+GO:0044085	cellular component biogenesis
+GO:0044087	regulation of cellular component biogenesis
+GO:0044092	negative regulation of molecular function
+GO:0044094	host cell nuclear part
+GO:0044217	other organism part
+GO:0044238	primary metabolic process
+GO:0044281	small molecule metabolic process
+GO:0044282	small molecule catabolic process
+GO:0044283	small molecule biosynthetic process
+GO:0044419	biological process involved in interspecies interaction between organisms
+GO:0044467	glial cell-derived neurotrophic factor production
+GO:0044703	multi-organism reproductive process
+GO:0044807	macrophage migration inhibitory factor production
+GO:0044808	oncostatin M production
+GO:0044809	chemokine (C-C motif) ligand 17 production
+GO:0044838	cell quiescence
+GO:0044844	meiotic interphase II
+GO:0044848	biological phase
+GO:0044851	hair cycle phase
+GO:0045239	tricarboxylic acid cycle heteromeric enzyme complex
+GO:0045934	negative regulation of nucleobase-containing compound metabolic process
+GO:0046164	alcohol catabolic process
+GO:0046165	alcohol biosynthetic process
+GO:0046624	sphingolipid intramembrane carrier activity
+GO:0046907	intracellular transport
+GO:0048518	positive regulation of biological process
+GO:0048519	negative regulation of biological process
+GO:0048522	positive regulation of cellular process
+GO:0048523	negative regulation of cellular process
+GO:0048583	regulation of response to stimulus
+GO:0048584	positive regulation of response to stimulus
+GO:0048585	negative regulation of response to stimulus
+GO:0048588	developmental cell growth
+GO:0048609	multicellular organismal reproductive process
+GO:0048856	anatomical structure development
+GO:0048858	cell projection morphogenesis
+GO:0050789	regulation of biological process
+GO:0050794	regulation of cellular process
+GO:0050896	response to stimulus
+GO:0051098	regulation of binding
+GO:0051099	positive regulation of binding
+GO:0051100	negative regulation of binding
+GO:0051101	regulation of DNA binding
+GO:0051128	regulation of cellular component organization
+GO:0051179	localization
+GO:0051234	establishment of localization
+GO:0051253	negative regulation of RNA metabolic process
+GO:0051318	G1 phase
+GO:0051319	G2 phase
+GO:0051320	S phase
+GO:0051322	anaphase
+GO:0051323	metaphase
+GO:0051324	prophase
+GO:0051325	interphase
+GO:0051326	telophase
+GO:0051327	meiotic M phase
+GO:0051328	meiotic interphase
+GO:0051329	mitotic interphase
+GO:0051330	meiotic G1 phase
+GO:0051331	meiotic G2 phase
+GO:0051332	meiotic S phase
+GO:0051640	organelle localization
+GO:0051641	cellular localization
+GO:0051703	biological process involved in intraspecies interaction between organisms
+GO:0051716	cellular response to stimulus
+GO:0060089	molecular transducer activity
+GO:0060206	estrous cycle phase
+GO:0060207	diestrus
+GO:0060208	proestrus
+GO:0060209	estrus
+GO:0060210	metestrus
+GO:0060255	regulation of macromolecule metabolic process
+GO:0061082	myeloid leukocyte cytokine production
+GO:0061919	process utilizing autophagic mechanism
+GO:0062012	regulation of small molecule metabolic process
+GO:0062013	positive regulation of small molecule metabolic process
+GO:0062014	negative regulation of small molecule metabolic process
+GO:0062039	biofilm matrix
+GO:0065007	biological regulation
+GO:0065008	regulation of biological quality
+GO:0070603	SWI/SNF superfamily-type complex
+GO:0070753	interleukin-35 production
+GO:0070887	cellular response to chemical stimulus
+GO:0070918	regulatory ncRNA processing
+GO:0070925	organelle assembly
+GO:0071173	spindle assembly checkpoint signaling
+GO:0071174	mitotic spindle checkpoint signaling
+GO:0071214	cellular response to abiotic stimulus
+GO:0071216	cellular response to biotic stimulus
+GO:0071229	cellular response to acid chemical
+GO:0071411	cellular response to fluoxetine
+GO:0071495	cellular response to endogenous stimulus
+GO:0071496	cellular response to external stimulus
+GO:0071605	monocyte chemotactic protein-1 production
+GO:0071606	chemokine (C-C motif) ligand 4 production
+GO:0071607	macrophage inflammatory protein-1 gamma production
+GO:0071608	macrophage inflammatory protein-1 alpha production
+GO:0071609	chemokine (C-C motif) ligand 5 production
+GO:0071610	chemokine (C-C motif) ligand 1 production
+GO:0071611	granulocyte colony-stimulating factor production
+GO:0071612	IP-10 production
+GO:0071613	granzyme B production
+GO:0071706	tumor necrosis factor superfamily cytokine production
+GO:0071840	cellular component organization or biogenesis
+GO:0071924	chemokine (C-C motif) ligand 22 production
+GO:0071925	thymic stromal lymphopoietin production
+GO:0071954	chemokine (C-C motif) ligand 11 production
+GO:0072001	renal system development
+GO:0072048	renal system pattern specification
+GO:0072337	modified amino acid transport
+GO:0072535	tumor necrosis factor (ligand) superfamily member 11 production
+GO:0072566	chemokine (C-X-C motif) ligand 1 production
+GO:0072567	chemokine (C-X-C motif) ligand 2 production
+GO:0072627	interleukin-28A production
+GO:0072629	interleukin-28B production
+GO:0072631	interleukin-29 production
+GO:0072633	interleukin-30 production
+GO:0072635	interleukin-31 production
+GO:0072637	interleukin-32 production
+GO:0072639	interleukin-33 production
+GO:0072645	interferon-delta production
+GO:0072647	interferon-epsilon production
+GO:0072649	interferon-kappa production
+GO:0072651	interferon-tau production
+GO:0072653	interferon-omega production
+GO:0072690	single-celled organism vegetative growth phase
+GO:0080090	regulation of primary metabolic process
+GO:0080134	regulation of response to stress
+GO:0090231	regulation of spindle checkpoint
+GO:0090232	positive regulation of spindle checkpoint
+GO:0090233	negative regulation of spindle checkpoint
+GO:0090269	fibroblast growth factor production
+GO:0090304	nucleic acid metabolic process
+GO:0090360	platelet-derived growth factor production
+GO:0097087	interleukin-17A production
+GO:0097088	interleukin-17F production
+GO:0097366	response to bronchodilator
+GO:0097388	chemokine (C-C motif) ligand 19 production
+GO:0097389	chemokine (C-C motif) ligand 21 production
+GO:0097390	chemokine (C-X-C motif) ligand 12 production
+GO:0097391	chemokine (C-X-C motif) ligand 13 production
+GO:0097392	chemokine (C-X-C motif) ligand 16 production
+GO:0097722	sperm motility
+GO:0098590	plasma membrane region
+GO:0098751	bone cell development
+GO:0098762	meiotic cell cycle phase
+GO:0098763	mitotic cell cycle phase
+GO:0098764	meiosis I cell cycle phase
+GO:0098765	meiosis II cell cycle phase
+GO:0098768	meiotic prometaphase I
+GO:0098772	molecular function regulator activity
+GO:0098791	Golgi apparatus subcompartment
+GO:0098798	mitochondrial protein-containing complex
+GO:0098802	plasma membrane signaling receptor complex
+GO:0099080	supramolecular complex
+GO:0099134	chimeric sorocarp development
+GO:0099135	chimeric colonial development
+GO:0099136	chimeric non-reproductive fruiting body development
+GO:0099522	cytosolic region
+GO:0099568	cytoplasmic region
+GO:0099738	cell cortex region
+GO:0110100	spindle pole body separation
+GO:0110165	cellular anatomical structure
+GO:0120562	GlcNAc(2)-PP-Dol mannosyltransferase activity
+GO:0140029	exocytic process
+GO:0140110	transcription regulator activity
+GO:0140142	nucleocytoplasmic carrier activity
+GO:0140392	extracellular protein-containing complex
+GO:0140513	nuclear protein-containing complex
+GO:0140657	ATP-dependent activity
+GO:0140699	cyclic GMP-AMP synthase activity
+GO:0140702	cyclic GMP-AMP binding
+GO:0140730	amphiregulin production
+GO:0140779	XCL1 production
+GO:0141187	nucleic acid biosynthetic process
+GO:0141188	nucleic acid catabolic process
+GO:0150137	interleukin-37 production
+GO:0150155	interleukin-34 production
+GO:0160266	anestrus phase
+GO:0170055	lipid transmembrane transporter activity
+GO:0180051	translation factor activity
+GO:1900068	negative regulation of cellular response to alkaline pH
+GO:1900070	negative regulation of cellular hyperosmotic salinity response
+GO:1900072	positive regulation of sulfite transmembrane transport
+GO:1900120	regulation of receptor binding
+GO:1900121	negative regulation of receptor binding
+GO:1900131	negative regulation of lipid binding
+GO:1900419	regulation of alcohol catabolic process
+GO:1900420	negative regulation of alcohol catabolic process
+GO:1900421	positive regulation of alcohol catabolic process
+GO:1901698	response to nitrogen compound
+GO:1901699	cellular response to nitrogen compound
+GO:1901700	response to oxygen-containing compound
+GO:1901876	regulation of calcium ion binding
+GO:1901976	regulation of cell cycle checkpoint
+GO:1901977	negative regulation of cell cycle checkpoint
+GO:1902415	regulation of mRNA binding
+GO:1902416	positive regulation of mRNA binding
+GO:1902518	response to cyclophosphamide
+GO:1902519	response to docetaxel trihydrate
+GO:1902520	response to doxorubicin
+GO:1902521	response to etoposide
+GO:1902522	response to 4'-epidoxorubicin
+GO:1902931	negative regulation of alcohol biosynthetic process
+GO:1902932	positive regulation of alcohol biosynthetic process
+GO:1903025	regulation of RNA polymerase II regulatory region sequence-specific DNA binding
+GO:1903026	negative regulation of RNA polymerase II regulatory region sequence-specific DNA binding
+GO:1903046	meiotic cell cycle process
+GO:1903047	mitotic cell cycle process
+GO:1903491	response to simvastatin
+GO:1903504	regulation of mitotic spindle checkpoint
+GO:1904426	positive regulation of GTP binding
+GO:1904530	negative regulation of actin filament binding
+GO:1904531	positive regulation of actin filament binding
+GO:1904797	negative regulation of core promoter binding
+GO:1904798	positive regulation of core promoter binding
+GO:1905119	response to haloperidol
+GO:1905120	cellular response to haloperidol
+GO:1905216	positive regulation of RNA binding
+GO:1990054	response to temozolomide
+GO:1990466	protein autosumoylation
+GO:1990636	reproductive senescence
+GO:1990775	endothelin production
+GO:1990968	modulation by host of RNA binding by virus
+GO:2000241	regulation of reproductive process
+GO:2000677	regulation of transcription regulatory region DNA binding
+GO:2000678	negative regulation of transcription regulatory region DNA binding
+GO:2000679	positive regulation of transcription regulatory region DNA binding
