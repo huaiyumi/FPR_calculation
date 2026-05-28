@@ -140,9 +140,9 @@ Recall (per protein)    = [E + (0.75 × L) + (0.5 × M)] / [E + L + M + Z]
 
 ```bash
 perl scripts/FPR_calculations.pl \
-  -p CAFA_test/test_prediction \
-  -t CAFA_test/existing_annotations \
-  -r CAFA_test/test_reference \
+  -p test_prediction \
+  -t test_existing_annotations \
+  -r test_new_annotations \
   -n GO_do_not_annotate_list \
   -g goparents \
   -o test.map > test.FPR
