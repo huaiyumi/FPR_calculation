@@ -128,7 +128,7 @@ Also, for each protein in `new_annotations`, count reference terms with no mappi
 ### 3d. Score Formulas
 
 ```
-Precision (per protein) = [E + (0.75 × L) + (0.5 × M)] / [E + L + M + A]
+Precision (per protein) = [E + (0.75 × L) + (0.5 × M)] / [E + L + M + U]
 
 Recall (per protein)    = [E + (0.75 × L) + (0.5 × M)] / [E + L + M + Z]
 
